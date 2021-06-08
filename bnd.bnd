@@ -1,0 +1,4 @@
+Bundle-Name: expire
+Bundle-SymbolicName: expire
+Bundle-Version: 1.0.0
+Export-Package: expire.api
